@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **MEDIACL AND AGRICULTURAL**
 
-- 🤝 I’m looking for help with **DNA CLASSIFICATION**
+- 🤝 I’m looking for help with **RPA WITH AI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/RamanjaneyareddyTV](https://github.com/RamanjaneyareddyTV)
 
