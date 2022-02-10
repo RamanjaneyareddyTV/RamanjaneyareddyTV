@@ -95,15 +95,11 @@
   
 ### Github Stats
   
-<p align="center">
-  <a href="https://github.com/RamanjaneyareddyTV"><span>
-    <img height="48%" src="https://github-readme-stats.vercel.app/api?username=RamanjaneyareddyTV&count_private=true&show_icons=true&theme=tokyonight&&include_all_commits=true"/>
-    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=amandewatnitrr&theme=tokyonight" />
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amandewatnitrr&hide=html,css,javascript,scss&layout=compact&langs_count=8&theme=tokyonight"/>
-    </span></a>
-</p>
-  
-<br>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ramanjaneyareddytv&show_icons=true&locale=en&layout=compact" alt="ramanjaneyareddytv" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ramanjaneyareddytv&show_icons=true&locale=en" alt="ramanjaneyareddytv" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ramanjaneyareddytv&" alt="ramanjaneyareddytv" /></p>
   
 ### 🏆 GitHub Profile Trophy:
 <p align="center">
