@@ -1,4 +1,3 @@
-
 # Hey Everyone! I'm [Venkataramanjaneyareddy Tippireddy](https://github.com/RamanjaneyareddyTV) <img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" width="25px">
 <br><br>
 <h3 align="center">An aspiring data scientist passionate about Data Science: I contribute towards building machine learning solutions for improving business efficiency and customer retention for all domains. Strong Advocate for Innovation and Automation, and the future of AI</h3>
@@ -22,7 +21,7 @@
 <br><br>
 
 <div>
-<img align="right" src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/terminal.gif" width="40%"/>
+<img align="right" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" width="40%"/>
   <br>
   
 - 🔭 I’m currently working on [zeta virus diseases](https://github.com/RamanjaneyareddyTV/Zeta-Disease-Prediction)
@@ -100,6 +99,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ramanjaneyareddytv&show_icons=true&locale=en" alt="ramanjaneyareddytv" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ramanjaneyareddytv&" alt="ramanjaneyareddytv" /></p>
+
   
 ### 🏆 GitHub Profile Trophy:
 <p align="center">
