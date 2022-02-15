@@ -26,7 +26,7 @@
   
 - 🔭 I’m currently working on [zeta virus diseases](https://github.com/RamanjaneyareddyTV/Zeta-Disease-Prediction)
 
-- 🌱 I’m currently learning **RPA, HUGGING FACE**
+- 🌱 I’m currently learning **AWS**
 
 - 👯 I’m looking to collaborate on **MEDIACL AND AGRICULTURAL**
 
