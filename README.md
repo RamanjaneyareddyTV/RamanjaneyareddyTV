@@ -26,7 +26,7 @@
   
 - 🔭 I’m currently working on [RNA & DNA](https://github.com/RamanjaneyareddyTV/Zeta-Disease-Prediction)
 
-- 🌱 I’m currently learning **AWS**
+- 🌱 I’m currently learning **AZURE CLOUD SERVICES**
 
 - 👯 I’m looking to collaborate on **MEDIACL AND AGRICULTURAL**
 
