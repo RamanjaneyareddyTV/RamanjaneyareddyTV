@@ -24,7 +24,7 @@
 <img align="right" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" width="40%"/>
   <br>
   
-- 🔭 I’m currently working on [RNA & DNA](https://github.com/RamanjaneyareddyTV/Zeta-Disease-Prediction)
+- 🔭 I’m currently working on [HUMAN DATA](https://github.com/RamanjaneyareddyTV/Zeta-Disease-Prediction)
 
 - 🌱 I’m currently learning **MICROSOFT AZURE**
 
